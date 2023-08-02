@@ -1,5 +1,19 @@
 # Observatory Build
 
+## Eagle Software Load
+
+1. ASCOM 6 Platform
+2. Ioptron CEM70 Driver
+3. ZWO ASI071MC Pro Driver
+4. ZWO ASI174MM Driver
+5. Esatto Driver
+6. Arco Driver
+7. ECO Driver
+8. Giotto Driver
+9. Alto Driver
+10. PHD2 Software
+
+
 ## Re-Imaging the Eagle Computer
 
 The Eagle Computer can be restored to its original state by restoring the Macrium Reflect Image backup.
@@ -18,4 +32,4 @@ This process requires the Rescue PE disk and the IMage disk.
 
 The original Eagle Image will be restored.
 
-Remove the USB Disks & reboot. Windows will reboot and doownload necesssary updates.
+Remove the USB Disks & reboot. Windows will reboot and download necesssary updates.
