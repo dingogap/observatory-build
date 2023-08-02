@@ -1,5 +1,13 @@
 # Observatory Build
 
+## Description
+
+## Table of Contents
+* [Eagle Software Load](#eagle-software-load)
+* [Re-Imaging the Eagle Computer](#re-imaging-the-eagle-computer)
+* [Software Updates](#software-updates)
+* [Software Downloads](#software-downloads)
+
 ## Eagle Software Load
 
 1. ASCOM 6 Platform
@@ -44,7 +52,7 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 2. Update PHD2
 3. Update location in Cartes du Ciel
 
-## Download Software
+## Software Downloads 
 
 1. iOptron CEM70 - iOptron Commander and ASCOM Driver
 2. Install ZWO Camera Driver - ASI071MCPro and ASI174MM
