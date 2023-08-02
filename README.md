@@ -6,12 +6,14 @@
 2. Ioptron CEM70 Driver
 3. ZWO ASI071MC Pro Driver
 4. ZWO ASI174MM Driver
-5. Esatto Driver
-6. Arco Driver
-7. ECO Driver
-8. Giotto Driver
-9. Alto Driver
-10. PHD2 Software
+5. NexDome Drivers
+6. Esatto Driver
+7. Arco Driver
+8. ECCO Driver
+9. Giotto Driver
+10. Alto Driver
+11. PHD2 Software
+12. Cartes du Ciel
 
 
 ## Re-Imaging the Eagle Computer
@@ -33,3 +35,13 @@ This process requires the Rescue PE disk and the IMage disk.
 The original Eagle Image will be restored.
 
 Remove the USB Disks & reboot. Windows will reboot and download necesssary updates.
+
+## Software Updates
+
+1. Update ASCOM
+2. Update PHD2
+3. Update location in Cartes du Ciel
+
+## Download Software
+
+
