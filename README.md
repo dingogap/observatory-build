@@ -3,17 +3,19 @@
 ## Eagle Software Load
 
 1. ASCOM 6 Platform
-2. Ioptron CEM70 Driver
+2. iOptron CEM70 Driver
 3. ZWO ASI071MC Pro Driver
 4. ZWO ASI174MM Driver
-5. NexDome Drivers
-6. Esatto Driver
-7. Arco Driver
-8. ECCO Driver
-9. Giotto Driver
-10. Alto Driver
-11. PHD2 Software
-12. Cartes du Ciel
+5. Eagle X
+6. NexDome Drivers
+7. ESATTO Driver
+8. ARCO Driver
+9. ECCO Driver
+10. GIOTTO Driver
+11. ALTO Driver
+12. PHD2 Software
+13. Cartes du Ciel
+14. NINA
 
 
 ## Re-Imaging the Eagle Computer
@@ -43,5 +45,22 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 3. Update location in Cartes du Ciel
 
 ## Download Software
+
+1. iOptron CEM70 - iOptron Commander and ASCOM Driver
+2. Install ZWO Camera Driver - ASI071MCPro and ASI174MM
+3. Install NINA
+4. Install Eagle X
+5. Install ESATTO
+6. Install ARCO
+7. Install ALTO
+
+## COM Port Assignment
+
+1. ESATTO - Silicon Labs CP210x USB to UART Bridge (COM9)
+2. ARCO - Silicon Labs CP210x USB to UART Bridge (COM9)
+3. ALTO - Silicon Labs CP210x USB to UART Bridge (COM10)
+3. GIOTTO - Silicon Labs CP210x USB to UART Bridge (COM11)
+
+
 
 
