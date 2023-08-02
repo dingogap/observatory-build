@@ -16,4 +16,6 @@ This process requires the Rescue PE disk and the IMage disk.
 8. Confirm Destination  & Click Next
 9. Click Finish
 
-The oroginal Eagle Image will be restored.
+The original Eagle Image will be restored.
+
+Remove the USB Disks & reboot. Windows will reboot and doownload necesssary updates.
