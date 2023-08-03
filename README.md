@@ -6,7 +6,8 @@
 * [Eagle Software Load](#eagle-software-load)
 * [Re-Imaging the Eagle Computer](#re-imaging-the-eagle-computer)
 * [Software Updates](#software-updates)
-* [Software Downloads](#software-downloads)
+* [Required Software](#required-software)
+* [COM Port Assignment](#com-port-assignment)
 
 ## Eagle Software Load
 
@@ -48,26 +49,32 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 
 ## Software Updates
 
-1. Update ASCOM
-2. Update PHD2
-3. Update location in Cartes du Ciel
+1. Update ASCOM - 6.5 -> 6.6
+2. Eagle Manager - 4.2
+3. Update PHD2
+4. Update location in Cartes du Ciel
 
-## Software Downloads 
+## Required Software 
 
 1. iOptron CEM70 - iOptron Commander and ASCOM Driver
-2. Install ZWO Camera Driver - ASI071MCPro and ASI174MM
-3. Install NINA
-4. Install Eagle X
-5. Install ESATTO
-6. Install ARCO
-7. Install ALTO
+2. ZWO Camera Driver - ASI071MCPro and ASI174MM
+3. NINA
+4. ECCO
+5. PLL ASCOM Switch
+6. ESATTO
+7. ARCO
+9. ALTO
+7. NexDome
+8. ASTAP and D50 Stars Database
+9. Lunatico Cloudwatcher Safety Monitor
 
 ## COM Port Assignment
 
-1. ESATTO - Silicon Labs CP210x USB to UART Bridge (COM9)
-2. ARCO - Silicon Labs CP210x USB to UART Bridge (COM9)
-3. ALTO - Silicon Labs CP210x USB to UART Bridge (COM10)
-3. GIOTTO - Silicon Labs CP210x USB to UART Bridge (COM11)
+1. ESATTO - Silicon Labs CP210x USB to UART Bridge (COM8)
+2. ARCO - Silicon Labs CP210x USB to UART Bridge (COM8)
+3. GIOTTO - Silicon Labs CP210x USB to UART Bridge (COM9)
+4. ALTO - Silicon Labs CP210x USB to UART Bridge (COM10)
+5. NexDome - Silicon Labs CP210x USB to UART Bridge (COM12)
 
 
 
