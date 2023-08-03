@@ -8,6 +8,7 @@
 * [Software Updates](#software-updates)
 * [Required Software](#required-software)
 * [COM Port Assignment](#com-port-assignment)
+* [Drive Mapping](#drive-mapping)
 
 ## Eagle Software Load
 
@@ -75,6 +76,11 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 3. GIOTTO - Silicon Labs CP210x USB to UART Bridge (COM9)
 4. ALTO - Silicon Labs CP210x USB to UART Bridge (COM10)
 5. NexDome - Silicon Labs CP210x USB to UART Bridge (COM12)
+
+## Drive Mapping
+
+1. AAGSOLO ( \\\\10.0.0.14) (Y:)
+2. Eagle Session ( \\\\deep-thought ) (Z:)
 
 
 
