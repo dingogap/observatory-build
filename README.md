@@ -3,12 +3,23 @@
 ## Description
 
 ## Table of Contents
+* [Hardware](#hardware)
 * [Eagle Software Load](#eagle-software-load)
 * [Re-Imaging the Eagle Computer](#re-imaging-the-eagle-computer)
 * [Software Updates](#software-updates)
 * [Required Software](#required-software)
 * [COM Port Assignment](#com-port-assignment)
 * [Drive Mapping](#drive-mapping)
+
+## Hardware
+
+1. Telescope:&emsp;&emsp;&emsp;SkyWatcher Esprit 120
+2. Camera:&emsp;&emsp;&emsp;&emsp; ZWO ASI071MC Pro
+3. Guider:&emsp;&emsp;&emsp;&emsp;&emsp;ZWO Off Axis Guider
+4. Guide Camera:&emsp;ZWO ASI174MM
+5. Filter Holder:&emsp;&emsp;ZWO M42 Filter Holder
+5. Computer:&emsp;&emsp;&emsp;Prima Luce Lab Eagle 4
+
 
 ## Eagle Software Load
 
@@ -26,7 +37,6 @@
 12. PHD2 Software
 13. Cartes du Ciel
 14. NINA
-
 
 ## Re-Imaging the Eagle Computer
 
