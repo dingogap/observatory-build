@@ -18,7 +18,10 @@
 3. Guider:&emsp;&emsp;&emsp;&emsp;&emsp;ZWO Off Axis Guider
 4. Guide Camera:&emsp;ZWO ASI174MM
 5. Filter Holder:&emsp;&emsp;ZWO M42 Filter Holder
-5. Computer:&emsp;&emsp;&emsp;Prima Luce Lab Eagle 4
+6. Computer:&emsp;&emsp;&emsp;Prima Luce Lab Eagle 4
+7. Focuser:&emsp;&emsp;&emsp;&emsp;Prima Luce Lab 3" ESATTO
+8. Rotator:&emsp;&emsp;&emsp;&emsp;Prima Luce Lab 3" ARCO
+
 
 
 ## Eagle Software Load
