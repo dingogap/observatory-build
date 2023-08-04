@@ -14,8 +14,8 @@
 ## Hardware
 
 1. Telescope:&emsp;&emsp;&emsp; SkyWatcher Esprit 120
-2. Camera:&emsp;&emsp;&emsp;&emsp;ZWO ASI071MC Pro
-3. Guider:&emsp;&emsp;&emsp;&emsp;&emsp;ZWO Off Axis Guider
+2. Camera:&emsp;&emsp;&emsp;&emsp; ZWO ASI071MC Pro
+3. Guider:&emsp;&emsp;&emsp;&emsp; ZWO Off Axis Guider
 4. Guide Camera:&emsp; ZWO ASI174MM
 5. Filter Holder:&emsp;&emsp;ZWO M42 Filter Holder
 6. Computer:&emsp;&emsp;&emsp;Prima Luce Lab Eagle 4
