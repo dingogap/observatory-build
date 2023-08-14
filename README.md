@@ -23,10 +23,11 @@
 8. Rotator:&emsp;&emsp;&emsp;&emsp; Prima Luce Lab 3" ARCO
 9. Flat Panel:&emsp;&emsp;&emsp; Prima Luce Lab GIOTTO 185
 10. Cover Motor:&emsp;&emsp;Prima Luce Lab ALTO-1
-11. Pier:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Astroworx 800mm Pier
-12. Observatory:&emsp;&emsp;&emsp;NexDome 2.2m Dome
-13. AAG CloudWatcher Cloud Detector
-14. AAG CloudWatcher Solo
+11. Mount:&emsp;&emsp;&emsp;&emsp;&emsp;iOptron CEM70G Mount
+12. Pier:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Astroworx 800mm Pier
+13. Observatory:&emsp;&emsp;&emsp;NexDome 2.2m Dome
+14. AAG CloudWatcher Cloud Detector
+15. AAG CloudWatcher Solo
 
 
 
