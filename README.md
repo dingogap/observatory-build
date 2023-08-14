@@ -25,6 +25,8 @@
 10. Cover Motor:&emsp;&emsp;Prima Luce Lab ALTO-1
 11. Pier:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Astroworx 800mm Pier
 12. Observatory:&emsp;&emsp;&emsp;NexDome 2.2m Dome
+13. AAG CloudWatcher Cloud Detector
+14. AAG CloudWatcher Solo
 
 
 
