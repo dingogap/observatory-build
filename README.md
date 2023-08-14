@@ -26,8 +26,7 @@
 11. Mount:&emsp;&emsp;&emsp;&emsp;&emsp;iOptron CEM70G Mount
 12. Pier:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Astroworx 800mm Pier
 13. Observatory:&emsp;&emsp;&emsp;NexDome 2.2m Dome
-14. AAG CloudWatcher Cloud Detector
-15. AAG CloudWatcher Solo
+14. Weather Station:&emsp;AAG CloudWatcher Cloud Detector and Solo Computer
 
 
 
