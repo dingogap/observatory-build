@@ -16,9 +16,8 @@
 | Component | Manufacturer          |
 | --------- | ----------------------|
 | Telescope | SkyWatcher Esprit 120 |
+| Camera | ZWO ASI071MC Pro |
 
-
-2. Camera:&emsp;&emsp;&emsp;&emsp; ZWO ASI071MC Pro
 3. Guider:&emsp;&emsp;&emsp;&emsp; ZWO Off Axis Guider
 4. Guide Camera:&emsp;&emsp; ZWO ASI174MM
 5. Filter Holder:&emsp;&emsp;ZWO M42 Filter Holder
