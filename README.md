@@ -17,19 +17,18 @@
 | --------- | ----------------------|
 | Telescope | SkyWatcher Esprit 120 |
 | Camera | ZWO ASI071MC Pro |
-
-3. Guider:&emsp;&emsp;&emsp;&emsp; ZWO Off Axis Guider
-4. Guide Camera:&emsp;&emsp; ZWO ASI174MM
-5. Filter Holder:&emsp;&emsp;ZWO M42 Filter Holder
-6. Computer:&emsp;&emsp;&emsp;Prima Luce Lab Eagle 4
-7. Focuser:&emsp;&emsp;&emsp;&emsp;Prima Luce Lab 3" ESATTO
-8. Rotator:&emsp;&emsp;&emsp;&emsp; Prima Luce Lab 3" ARCO
-9. Flat Panel:&emsp;&emsp;&emsp; Prima Luce Lab GIOTTO 185
-10. Cover Motor:&emsp;&emsp;Prima Luce Lab ALTO-1
-11. Mount:&emsp;&emsp;&emsp;&emsp;&emsp;iOptron CEM70G Mount
-12. Pier:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Astroworx 800mm Pier
-13. Observatory:&emsp;&emsp;&emsp;NexDome 2.2m Dome
-14. Weather Station:&emsp;AAG CloudWatcher Cloud Detector and Solo Computer
+| Guider | WO Off Axis Guider |
+| Guide Camera | ZWO ASI174MM |
+| Filter Holder | ZWO M42 Filter Holder |
+| Computer | Prima Luce Lab Eagle 4 |
+| Focuser | Prima Luce Lab 3" ESATTO |
+| Rotator | Prima Luce Lab 3" ARCO |
+| Flat Panel | Prima Luce Lab GIOTTO 185 |
+| Cover Motor | Prima Luce Lab ALTO-1 |
+| Mount | iOptron CEM70G Mount |
+| Pier | Astroworx 800mm Pier |
+| Observatory | NexDome 2.2m Dome |
+| Weather Station | AAG CloudWatcher Cloud Detector and Solo Computer |
 
 
 
