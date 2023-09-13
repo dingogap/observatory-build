@@ -106,16 +106,16 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 ## Checklist
 - [ ] ASCOM 6 Platform
 - [ ] iOptron CEM70 Driver
-3. ZWO ASI071MC Pro Driver
-4. ZWO ASI174MM Driver
-5. Eagle X
-6. NexDome Drivers
-7. ESATTO Driver
-8. ARCO Driver
-9. ECCO Driver
-10. GIOTTO Driver
-11. ALTO Driver
-12. PHD2 Software
-13. Cartes du Ciel
-14. NINA
+- [ ] ZWO ASI071MC Pro Driver
+- [ ] ZWO ASI174MM Driver
+- [ ] Eagle X
+- [ ] NexDome Drivers
+- [ ] ESATTO Driver
+- [ ] ARCO Driver
+- [ ] ECCO Driver
+- [ ] GIOTTO Driver
+- [ ] ALTO Driver
+- [ ] PHD2 Software
+- [ ] Cartes du Ciel
+- [ ] NINA
 
