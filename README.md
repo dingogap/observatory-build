@@ -10,7 +10,7 @@
 * [Required Software](#required-software)
 * [COM Port Assignment](#com-port-assignment)
 * [Drive Mapping](#drive-mapping)
-
+* [Installation Checklist](#installation-checklist)
 ## Hardware
 
 | Component | Manufacturer          |
@@ -103,7 +103,7 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 1. AAGSOLO ( \\\\10.0.0.14) (Y:)
 2. Eagle Session ( \\\\deep-thought ) (Z:)
 
-## Checklist
+## Installation Checklist
 - [ ] ASCOM 6 Platform
 - [ ] iOptron CEM70 Driver
 - [ ] ZWO ASI071MC Pro Driver
