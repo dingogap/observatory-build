@@ -103,6 +103,19 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 1. AAGSOLO ( \\\\10.0.0.14) (Y:)
 2. Eagle Session ( \\\\deep-thought ) (Z:)
 
-
-
+## Checklist
+- [ ] ASCOM 6 Platform
+- [ ] iOptron CEM70 Driver
+3. ZWO ASI071MC Pro Driver
+4. ZWO ASI174MM Driver
+5. Eagle X
+6. NexDome Drivers
+7. ESATTO Driver
+8. ARCO Driver
+9. ECCO Driver
+10. GIOTTO Driver
+11. ALTO Driver
+12. PHD2 Software
+13. Cartes du Ciel
+14. NINA
 
