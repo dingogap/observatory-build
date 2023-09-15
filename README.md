@@ -3,15 +3,17 @@
 ## Description
 
 ## Table of Contents
-* [Hardware](#hardware)
-* [Eagle Software Load](#eagle-software-load)
-* [Re-Imaging the Eagle Computer](#re-imaging-the-eagle-computer)
-* [Software Updates](#software-updates)
-* [Required Software](#required-software)
-* [WiFi Connections](#wifi-connections)
-* [COM Port Assignment](#com-port-assignment)
-* [Drive Mapping](#drive-mapping)
-* [Installation Checklist](#installation-checklist)
+1. [Hardware](#hardware)
+2. [Eagle Software Load](#eagle-software-load)
+3. [Re-Imaging the Eagle Computer](#re-imaging-the-eagle-computer)
+4. [Software Updates](#software-updates)
+5. [Required Software](#required-software)
+6. [WiFi Connections](#wifi-connections)
+7. [COM Port Assignment](#com-port-assignment)
+8. [Drive Mapping](#drive-mapping)
+9. [Installation Checklist](#installation-checklist)
+10. [NINA Configuration](#nina-configuration)
+    1. [Equipment](#equipment)
 ## Hardware
 
 | Component | Manufacturer          |
@@ -84,7 +86,7 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 2. ZWO Camera Driver - ASI071MCPro and ASI174MM
 3. NINA
 4. ECCO
-5. PLL ASCOM Switch
+5. PLL ASCOM Switch (in the Manger 4.2 folder)
 6. ESATTO
 7. ARCO
 9. ALTO
@@ -135,15 +137,66 @@ The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 R
 - [ ] WiFi Configuration
 - [ ] Lunatico CloudWatcher Safety Monitor
 
-## NINA Config
+## NINA Configuration
 
-### 1. Equipment
+### Equipment
 
-####  1.1 Camera
-* Camera - ZWO 071MC Pro
+#### 1. Camera
+  Camera - ZWO 071MC Pro
    * Dew Heater: On
    * Cooling to -10°C 
      * duration 15 minutes
    * Warming
      * duration 5 minutes
+
+#### 2. Filter Wheel
+   * NINA Manual Filer Wheel
+
+#### 3. Focuser
+   * PLL Ascom Focuser
+     * Com Port 7
+     * Dark Mode On
+
+#### 4. Rotator
+   * PLL Ascom Rotator
+      * Com Port 7
+
+
+#### 5. Telescope 
+   * iOptron CEM70G
+      * Connection: WiFi
+
+#### 6. Guider
+   * Application: PHD2
+   * Guide Camera: ZWO ASI 174MM
+   * Method: Off Axis Guiding
+
+#### 7. Flat Panel
+   * Driver: PLL Cover Calibrator
+   * Cover Motor - PLL Alto
+      * Com Port 10
+   * Flat Panel: PLL Giotto
+      * Com Port 11
+
+#### 8. Weather
+   * Lunatico CloudWatcher Observing Conditions
+   * AAGSOLO ( \\\\10.0.0.14) mapped as Drive Y:
+   * Path:  Y:\aag_json.dat
+
+#### 10. Dome
+   * Beaver NexDome ASCOM Driver
+   * Connection From Telescope: IP
+      * Address: 10.0.0.32
+      * Port: 10000
+   * Beaver WiFi Client Configuration
+      * SSID: Observatory Router Name
+      * Static IP
+      * IP Address: 10.0.0.32
+      * Subnet Mask: 255.255.255.0
+      * Gateway: 10.0.0.30
+      * Listen port: 10000
+#### 11. Safety Monitor
+   * Lunatico CloudWatcher Safety Monitor
+
+
 
