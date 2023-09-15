@@ -8,6 +8,7 @@
 * [Re-Imaging the Eagle Computer](#re-imaging-the-eagle-computer)
 * [Software Updates](#software-updates)
 * [Required Software](#required-software)
+* [WiFi Connections](#wifi-connections)
 * [COM Port Assignment](#com-port-assignment)
 * [Drive Mapping](#drive-mapping)
 * [Installation Checklist](#installation-checklist)
@@ -48,6 +49,7 @@
 12. PHD2 Software
 13. Cartes du Ciel
 14. NINA
+15. Lunatico Cloudwatcher Safety Monitor
 
 ## Re-Imaging the Eagle Computer
 
@@ -90,25 +92,37 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 8. ASTAP and D50 Stars Database
 9. Lunatico Cloudwatcher Safety Monitor
 
+## WiFi Connections
+The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 Router connected by ethernet to the main network.
+
+
+| Device | IP Address | Subnet Mask | Gateway|
+|--------|------------|------|-
+| Router | 10.0.0.30 | 255.255.255.0 |10.0.0.1
+| Eagle 4 Computer | 10.0.0.31 | 255.255.255.0 |10.0.0.30 
+| NexDome Observatory| 10.0.0.32 | 255.255.255.0 |10.0.0.30
+| CEM70G Mount | 10.0.0.33 | 255.255.255.0 | 10.0.0.30
+
+
+
 ## COM Port Assignment
 
-1. ESATTO - Silicon Labs CP210x USB to UART Bridge (COM8)
-2. ARCO - Silicon Labs CP210x USB to UART Bridge (COM8)
-3. GIOTTO - Silicon Labs CP210x USB to UART Bridge (COM9)
+1. ESATTO - Silicon Labs CP210x USB to UART Bridge (COM7)
+2. ARCO - Silicon Labs CP210x USB to UART Bridge (COM7)
+3. GIOTTO - Silicon Labs CP210x USB to UART Bridge (COM11)
 4. ALTO - Silicon Labs CP210x USB to UART Bridge (COM10)
-5. NexDome - Silicon Labs CP210x USB to UART Bridge (COM12)
 
 ## Drive Mapping
 
 1. AAGSOLO ( \\\\10.0.0.14) (Y:)
-2. Eagle Session ( \\\\deep-thought ) (Z:)
+2. Eagle Session ( \\\\betelgeuse ) (Z:)
 
 ## Installation Checklist
 - [ ] ASCOM 6 Platform
 - [ ] iOptron CEM70 Driver
 - [ ] ZWO ASI071MC Pro Driver
 - [ ] ZWO ASI174MM Driver
-- [ ] Eagle X
+- [ ] Eagle X?
 - [ ] NexDome Drivers
 - [ ] ESATTO Driver
 - [ ] ARCO Driver
@@ -118,4 +132,18 @@ Remove the USB Disks & reboot. Windows will reboot and download necesssary updat
 - [ ] PHD2 Software
 - [ ] Cartes du Ciel
 - [ ] NINA
+- [ ] WiFi Configuration
+- [ ] Lunatico CloudWatcher Safety Monitor
+
+## NINA Config
+
+### 1. Equipment
+
+####  1.1 Camera
+* Camera - ZWO 071MC Pro
+   * Dew Heater: On
+   * Cooling to -10°C 
+     * duration 15 minutes
+   * Warming
+     * duration 5 minutes
 
