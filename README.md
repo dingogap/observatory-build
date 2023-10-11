@@ -13,7 +13,8 @@
 8. [Drive Mapping](#drive-mapping)
 9. [Installation Checklist](#installation-checklist)
 10. [NINA Configuration](#nina-configuration)
-    1. [Equipment](#equipment)
+11. [NexDome Configuration](#nexdomeconfiguration)
+
 ## Hardware
 
 | Component | Manufacturer          |
@@ -247,6 +248,10 @@ The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 R
       |Find Home before Parking|Off|
 
 #### 5. Imaging
+
+### Nexdome Configuration
+
+
 
 
 ### Windows Update Settings
