@@ -161,7 +161,6 @@ The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 R
    * PLL Ascom Rotator
       * Com Port 7
 
-
 #### 5. Telescope 
    * iOptron CEM70G
       * Connection: WiFi
@@ -197,6 +196,73 @@ The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 R
       * Listen port: 10000
 #### 11. Safety Monitor
    * Lunatico CloudWatcher Safety Monitor
+
+
+### Options
+
+#### 1. General
+   * Name: Observatory
+   * Astrometry: C:\Users\PrimaLuceLab\Documents\N.I.N.A\dome-horizon.hrz
+
+#### 2. Equipment
+   * Camera:
+
+   * Telescope:
+      * Name :Skywatcher Esprit 120
+      * Focal Length: 840mm
+      * Focal Ration: 7
+      * Settle After Slew: 7s
+
+   * Weather
+
+   * Filter Wheel
+
+   * Planetarium
+
+#### 3. Autofocus
+
+#### 4. Dome
+
+   * Dome & Mount Geometry
+
+      | Item| Setting|
+      |-----|---------
+      |Mount Type| Equatorial|
+      | Telescope Position N/S| 22mm|
+      |Telescope Position E/W |-9mm|
+      |Telescope Position +Up/-Down| -325mm|
+      |Dome Radius| 1100mm|
+      |GEM Axis Length|300mm|
+      |Lateral Axis Length| 0mm|
+      |Azimuth Tolerance| 2° |
+    
+   * Dome Settings        
+
+      |Item| Setting|
+      |----|--------|
+      |Synchronisation Timeout|120s|
+      |Settle After Slew| 10s|
+      |Allow Sync While Mount Slews| Off|
+      |Sync slew Dome when scope slews|On|
+      |Find Home before Parking|Off|
+
+#### 5. Imaging
+
+
+### Windows Update Settings
+
+#### 1. Active Hours
+
+Windows will automatically reboot the PC if an update has been applied. An Active Hourse Excluion can be set to stop the PC rebooting during an imaging session.
+
+**Change the Active Hours to:**
+* Start Time: 6:00 pm
+* End Time: 8:00 am
+
+
+
+
+
 
 
 
