@@ -13,7 +13,8 @@
 8. [Drive Mapping](#drive-mapping)
 9. [Installation Checklist](#installation-checklist)
 10. [NINA Configuration](#nina-configuration)
-11. [NexDome Configuration](#nexdomeconfiguration)
+11. [NexDome Configuration](#nexdome-configuration)
+12. [Windows Update Settings](#windows-update-settings)
 
 ## Hardware
 
@@ -188,13 +189,7 @@ The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 R
    * Connection From Telescope: IP
       * Address: 10.0.0.32
       * Port: 10000
-   * Beaver WiFi Client Configuration
-      * SSID: Observatory Router Name
-      * Static IP
-      * IP Address: 10.0.0.32
-      * Subnet Mask: 255.255.255.0
-      * Gateway: 10.0.0.30
-      * Listen port: 10000
+
 #### 11. Safety Monitor
    * Lunatico CloudWatcher Safety Monitor
 
@@ -249,12 +244,44 @@ The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 R
 
 #### 5. Imaging
 
-### Nexdome Configuration
+## Nexdome Configuration
+
+### 1. Beaver Dome Test And Config
+
+   * Configure Wifi (Client)
+
+      |Item| Setting|
+      |----|--------|
+      |Client|Active|
+      |SSID|Wifi NetWork Name|
+      |IP Type|Static|
+      |IP Address| 10.0.0.32|
+      |Subnet Mask| 255.255.255.0|
+      |Gateway| 10.0.0.30|
+      | Listen port| 10000|
+
+   * Motor Details
+
+      |Item| Setting|
+      |----|--------|
+      |Steps/Degree|152.988889|
+      |Min Speed|400|
+      |Max Speed|800|
+      |Acceleration|400|
+      |Size of Home Sensor|2.000000|
+      |Location of Home Sensor|180|
+
+   * Configuration
+      
+      |Item| Setting |
+      |----|---------|
+      |IP Address|10.0.0.32|
+      |Port|10000|
+      |Home Azimuth|180°|
+      |Park Azimuth|180°|
 
 
-
-
-### Windows Update Settings
+## Windows Update Settings
 
 #### 1. Active Hours
 
