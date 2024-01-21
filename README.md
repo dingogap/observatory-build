@@ -280,6 +280,12 @@ The Observatory uses WiFi for as many devices as possible delivered by a WiFi5 R
       |Home Azimuth|180°|
       |Park Azimuth|180°|
 
+     * Safety Settings
+
+       |Item| Setting |
+       |----|---------|
+       |Shutter Battery| checked |
+       |Min Voltage| 11.0 | 
 
 ## Windows Update Settings
 
