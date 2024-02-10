@@ -22,7 +22,7 @@
 | --------- | ----------------------|
 | Telescope | SkyWatcher Esprit 120 |
 | Camera | ZWO ASI071MC Pro |
-| Guider | WO Off Axis Guider |
+| Guider | Prima Luce Lab 60mm Guidescope (240mm focal length |
 | Guide Camera | ZWO ASI174MM |
 | Filter Holder | ZWO M42 Filter Holder |
 | Computer | Prima Luce Lab Eagle 4 |
